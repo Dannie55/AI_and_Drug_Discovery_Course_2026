@@ -1,8 +1,15 @@
 # AI_and_Drug_Discovery_Course_2026
-# Assignment 2: QSAR Data Curation Using ChEMBL
-# Selected Target Name : Cellular Tumor Antigen P53
-# Number of bioactivity records: 30
-# Short description of the data curation workflow
+
+**Assignment 2: QSAR Data Curation Using ChEMBL**
+---
+
+**Selected Target Name : Cellular Tumor Antigen P53**
+
+---
+**Number of bioactivity records: 30**
+
+
+**Short description of the data curation workflow**
 
 ## 📌 Project Overview
 This project focuses on **QSAR Data Curation using chEMBL**  The workflow covers data collection, curation, descriptor calculation, model development, and model evaluation.
